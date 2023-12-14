@@ -1,1 +1,8 @@
-lol
+Privacy and Policy for Kanye Bot by The One Who Invents
+
+The Premissions of the bot gives it the power to:
+1. Send messages (including in Threads)
+2. Send Text-To-Speech messages
+3. Read message History
+4. Connect
+5. Speak
