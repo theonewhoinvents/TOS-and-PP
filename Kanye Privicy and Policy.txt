@@ -8,4 +8,8 @@ The Premissions of the bot gives it the power to:
 5. Speak
 6. Use voice activity
 
-  By allowing the bot to do that he'll be able to only send messages, connect to voice chat and play audio without recording. With message history he'll be able to replay to messages. The bot has the abillity to show ping. It does not have any way of getting information about users.  
+  By allowing the bot to do that he'll be able to only send messages, connect to voice chat and play audio without recording. 
+With message history he'll be able to replay to messages. The bot has the abillity to show ping. It does not have any way of 
+getting information about users. The bot is not impersonating anyone.
+
+                                                                                                      - The One Who Invents
